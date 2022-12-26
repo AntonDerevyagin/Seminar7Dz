@@ -1,0 +1,15 @@
+/Users/antonderevagin/Documents/Seminar7Dz/Task50/bin/Debug/net7.0/Task50
+/Users/antonderevagin/Documents/Seminar7Dz/Task50/bin/Debug/net7.0/Task50.deps.json
+/Users/antonderevagin/Documents/Seminar7Dz/Task50/bin/Debug/net7.0/Task50.runtimeconfig.json
+/Users/antonderevagin/Documents/Seminar7Dz/Task50/bin/Debug/net7.0/Task50.dll
+/Users/antonderevagin/Documents/Seminar7Dz/Task50/bin/Debug/net7.0/Task50.pdb
+/Users/antonderevagin/Documents/Seminar7Dz/Task50/obj/Debug/net7.0/Task50.csproj.AssemblyReference.cache
+/Users/antonderevagin/Documents/Seminar7Dz/Task50/obj/Debug/net7.0/Task50.GeneratedMSBuildEditorConfig.editorconfig
+/Users/antonderevagin/Documents/Seminar7Dz/Task50/obj/Debug/net7.0/Task50.AssemblyInfoInputs.cache
+/Users/antonderevagin/Documents/Seminar7Dz/Task50/obj/Debug/net7.0/Task50.AssemblyInfo.cs
+/Users/antonderevagin/Documents/Seminar7Dz/Task50/obj/Debug/net7.0/Task50.csproj.CoreCompileInputs.cache
+/Users/antonderevagin/Documents/Seminar7Dz/Task50/obj/Debug/net7.0/Task50.dll
+/Users/antonderevagin/Documents/Seminar7Dz/Task50/obj/Debug/net7.0/refint/Task50.dll
+/Users/antonderevagin/Documents/Seminar7Dz/Task50/obj/Debug/net7.0/Task50.pdb
+/Users/antonderevagin/Documents/Seminar7Dz/Task50/obj/Debug/net7.0/Task50.genruntimeconfig.cache
+/Users/antonderevagin/Documents/Seminar7Dz/Task50/obj/Debug/net7.0/ref/Task50.dll
